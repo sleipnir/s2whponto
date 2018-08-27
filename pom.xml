@@ -8,7 +8,7 @@
 	<version>1.0-SNAPSHOT</version>
 
 	<name>wicket-spring-hibernate</name>
-	<description></description>
+	<description/>
 	<licenses>
 		<license>
 			<name>The Apache Software License, Version 2.0</name>
@@ -95,7 +95,7 @@
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
-			<version>3.6</version>
+			<version>3.17</version>
 		</dependency>
 
 		<!-- LOGGING DEPENDENCIES - LOG4J -->
